@@ -1,0 +1,33 @@
+.header{
+    padding-bottom: 60px;
+    min-height: 100vh;
+    background: linear-gradient(180deg, rgba(98, 20, 2, 0.31) 0%, #452561 85%),
+    url('../img/1614764892_1-p-zadnie-foni-dlya-fotoshopa-1.jpg') no-repeat center top /cover;
+}
+.imgphoto{
+    max-width: 20%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+.sing{
+    color: aqua;
+}
+.sings{
+    color: springgreen;
+}
+.stud{
+    color: aliceblue;
+}
+.study{
+    color: aliceblue;
+}
+.a{
+    color: lawngreen;
+}
+.ak{
+    text-decoration: none;
+    color: white;
+}
+.gold{
+    color: gold;
+}
